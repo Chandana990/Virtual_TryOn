@@ -127,3 +127,23 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+/checkpoints/
+
+LICENSE
+
+background image.jpg
+
+.gradio
+
+*.lnk
+*.jpg
+
+Virtual_tryon.ipynb
+
+results/
+
+datasets/
+
+.gradio/
